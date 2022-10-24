@@ -1,0 +1,19 @@
+[
+
+   
+    {
+        "firstname": "a",
+        "lastname": "b",
+        "gender": "Male",
+        "dob": "2001-12-12",
+        "bg": "O ve(+)",
+        "address": "dhaka",
+        "email": "yusuf.shadhin@gmail.com",
+        "phone": "016",
+        "qua": "Bsc. CSE",
+        "work": "No Ex[perience",
+        "username": "sm",
+        "password": "123",
+        "role": "Admin"
+    }
+]
